@@ -1,0 +1,8 @@
+.dew-wet :not(.dew-dry){background:none;color:inherit}
+.dew-air{color:#533!important;background:beige!important}
+.dew-sky{color:#115!important;background:skyblue!important}
+.dew-dawn{color:midnightblue!important;background:#add!important}
+.dew-dusk{color:#533!important;background:moccasin!important}
+.dew-leaf{color:#203!important;background:darkturquoise!important}
+.dew-drop{color:navy!important;background:lightskyblue!important}
+.dew-wave{color:#102!important;background:deepskyblue!important}
