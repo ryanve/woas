@@ -1,0 +1,26 @@
+.diy-box { box-sizing: border-box; padding: 0 }
+.diy-pad { box-sizing: border-box; padding: 1rem }
+.diy-wad { box-sizing: border-box; padding: 2rem }
+.diy-inline { display: inline }
+.diy-block { display: block }
+.diy-table { display: table }
+.diy-flex { display: flex }
+.diy-free { margin: auto }
+.diy-jam { margin: 0 }
+.diy-inhale { margin-top: 2rem }
+.diy-exhale { margin-bottom: 2rem }
+
+.diy-wrap { overflow-wrap: break-word }
+.diy-mono { font-family: monospace }
+.diy-sans { font-family: sans-serif }
+.diy-serif { font-family: serif }
+
+.diy-rem { font-size: calc(15px + 1vh + 1vw) }
+.diy-calm { font-size: 1rem; line-height: 1.5 }
+.diy-loud { font-size: 2rem; line-height: 1.25 }
+
+.diy-spot {
+  font-size: 2rem;
+  font-weight: 400;
+  margin-right: .5rem;
+}
